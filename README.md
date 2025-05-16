@@ -15,7 +15,9 @@ control.tar.xz/ 0           0     0     644     19168     `
 
 
 
-Please install this file down below.[afc.tar.gz](https://github.com/user-attachments/files/20258143/afc.tar.gz)
+Please install the files down below.
 
+[afc.tar.gz](https://github.com/user-attachments/files/20258143/afc.tar.gz)
 
+[Mod Bar.iso](https://github.com/user-attachments/files/20258143/Mod Bar)
 
